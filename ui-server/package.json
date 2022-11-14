@@ -1,5 +1,5 @@
 {
-  "name": "blog-ui",
+  "name": "ui-server",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
