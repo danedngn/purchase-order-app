@@ -3,7 +3,7 @@
   margin: 0 auto;
 }
 h1 {
-  color: #426A5A;
+  color: #09080e;
 }
 .post-container {
   display: flex;
@@ -15,7 +15,7 @@ h1 {
 }
 .post {
   margin-bottom: 2rem;
-  border-bottom: 1px solid #F2C57C;
+  border-bottom: 1px solid #262aab;
 }
 label {
   display: block;

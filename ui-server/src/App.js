@@ -29,15 +29,15 @@ const CreatePost = ({ onPost }) => {
   return (
     <form onSubmit={handleSubmit}>
       <div className="form-input">
-        <label htmlFor="title">Title:</label>
+        <label htmlFor="title">Order Number:</label>
         <input type="text" id="title" name="title" />
       </div>
       <div className="form-input">
-        <label htmlFor="body">Text:</label>
+        <label htmlFor="body">Description:</label>
         <textarea id="body" name="body" />
       </div>
       <div>
-        <button type="submit">Create New Post</button>
+        <button type="submit">Create New Order</button>
       </div>
     </form>
   )
